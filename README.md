@@ -1,3 +1,3 @@
 # monitoring-sample
 
-Monitoring tool configuration samples
+Monitoring tool configuration samples.
