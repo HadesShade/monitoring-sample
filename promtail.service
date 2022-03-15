@@ -1,0 +1,8 @@
+[Unit]
+Description = Grafana Promtail
+
+[Service]
+ExecStart = /opt/promtail/promtail -config.file=/opt/promtail/promtail-local-config.yml
+
+[Install]
+WantedBy = multi-user.target
